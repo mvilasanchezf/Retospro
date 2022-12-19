@@ -112,7 +112,7 @@ fun rellenarDatosUsuario(text: String): String {
         colors = TextFieldDefaults.outlinedTextFieldColors(
             focusedBorderColor = Color.Cyan,
             unfocusedBorderColor = Color.Magenta
-        
+
         )
     )
 
